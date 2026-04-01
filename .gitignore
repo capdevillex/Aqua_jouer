@@ -1,0 +1,7 @@
+aqua_jouer.db
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+prompt.txt
